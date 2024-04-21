@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*........... hero */
+.hero {
+    background-color: blue;
+}
+
+/* .section {
+    background-color: aqua;
+    margin: 0 auto;
+}
+
+
+
+.left {
+    background-color: blueviolet;
+}
+
+.right {
+    background-color: yellow;
+} */
+.head1 {
+    font-weight:700 ;
+}
+
+
+.head2 {
+    color: #ECAD15;
+
+}
+.card {
+    border: 1px dashed black;
+}
+
+/* .......................tablet.................. */
